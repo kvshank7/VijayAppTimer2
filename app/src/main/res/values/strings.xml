@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">VijayAppTimer2</string>
+
+    <string name="TouchTimer">60</string>
+    <string name="action_settings">Settings</string>
+    <string name="TimerText">0</string>
+    <string name="buttonText">Start</string>
+    <string name="TotalTapCountCaption">Total # of Taps: </string>
+    <string name="TotalTapCount">0</string>
+    <string name="CorrectTapCountCaption">Correct # of Taps: </string>
+    <string name="CorrectTapCount">0</string>
+    <string name="TotalBeepsCaption">Total # of Beeps: </string>
+    <string name="ResultMessage">Good Luck !!! </string>
+    <string name="SetupOKButton">OK</string>
+    <string name="SetupTouchTimerCaption">Interval (secs): </string>
+    <string name="Duration">Duration (secs): </string>
+</resources>
